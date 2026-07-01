@@ -23,7 +23,7 @@ No additional libraries are required.
 Open a terminal in the project folder and run:
 
 ```bash
-python Problem1.py
+python CS460.py
 ```
 
 Example output:
